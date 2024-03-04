@@ -1,1 +1,1 @@
-# java-project2
+Atm management system using java swing.
